@@ -1,0 +1,8 @@
+C:\Users\akzuz\Desktop\ClasswithEvent\bin\Debug\ClasswithEvent.exe.config
+C:\Users\akzuz\Desktop\ClasswithEvent\bin\Debug\ClasswithEvent.exe
+C:\Users\akzuz\Desktop\ClasswithEvent\bin\Debug\ClasswithEvent.pdb
+C:\Users\akzuz\Desktop\ClasswithEvent\obj\Debug\ClasswithEvent.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\ClasswithEvent\obj\Debug\ClasswithEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\ClasswithEvent\obj\Debug\ClasswithEvent.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\ClasswithEvent\obj\Debug\ClasswithEvent.exe
+C:\Users\akzuz\Desktop\ClasswithEvent\obj\Debug\ClasswithEvent.pdb

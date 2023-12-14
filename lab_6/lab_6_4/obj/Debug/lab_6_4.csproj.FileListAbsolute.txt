@@ -1,0 +1,8 @@
+C:\Users\akzuz\Desktop\lab_6_4\bin\Debug\lab_6_4.exe.config
+C:\Users\akzuz\Desktop\lab_6_4\bin\Debug\lab_6_4.exe
+C:\Users\akzuz\Desktop\lab_6_4\bin\Debug\lab_6_4.pdb
+C:\Users\akzuz\Desktop\lab_6_4\obj\Debug\lab_6_4.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\lab_6_4\obj\Debug\lab_6_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\lab_6_4\obj\Debug\lab_6_4.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\lab_6_4\obj\Debug\lab_6_4.exe
+C:\Users\akzuz\Desktop\lab_6_4\obj\Debug\lab_6_4.pdb

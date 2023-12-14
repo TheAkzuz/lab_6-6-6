@@ -1,0 +1,8 @@
+C:\Users\akzuz\Desktop\Matem3\bin\Debug\Matem3.exe.config
+C:\Users\akzuz\Desktop\Matem3\bin\Debug\Matem3.exe
+C:\Users\akzuz\Desktop\Matem3\bin\Debug\Matem3.pdb
+C:\Users\akzuz\Desktop\Matem3\obj\Debug\Matem3.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\Matem3\obj\Debug\Matem3.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\Matem3\obj\Debug\Matem3.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\Matem3\obj\Debug\Matem3.exe
+C:\Users\akzuz\Desktop\Matem3\obj\Debug\Matem3.pdb

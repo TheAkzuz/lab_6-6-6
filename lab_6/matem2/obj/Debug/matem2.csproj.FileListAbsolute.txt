@@ -1,0 +1,8 @@
+C:\Users\akzuz\Desktop\matem2\bin\Debug\matem2.exe.config
+C:\Users\akzuz\Desktop\matem2\bin\Debug\matem2.exe
+C:\Users\akzuz\Desktop\matem2\bin\Debug\matem2.pdb
+C:\Users\akzuz\Desktop\matem2\obj\Debug\matem2.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\matem2\obj\Debug\matem2.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\matem2\obj\Debug\matem2.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\matem2\obj\Debug\matem2.exe
+C:\Users\akzuz\Desktop\matem2\obj\Debug\matem2.pdb
